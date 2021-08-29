@@ -7,7 +7,7 @@
   </br>
   
   
-  # <a href="https://mgl.cloud/about">ABOUT ME<a/>
+  # <a  align="center" href="https://mgl.cloud/about">ABOUT ME<a/>
 </div
 <!---
 mgl-cloud/mgl-cloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
