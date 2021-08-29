@@ -15,11 +15,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h4 align="center"><code>
-> I am passionate about open source software and giving back to others.&nbsp;
+> 热衷于开源项目.&nbsp;
 </code></h4>
 
 <h4 align="center"><code>
-> My projects are trusted by thousands of developers all over the world.
+> 我的项目希望能帮到您
 </code></h4>
 
 <h5 align="center">
