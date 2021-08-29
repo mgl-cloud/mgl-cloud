@@ -1,9 +1,9 @@
 <div style="text-align: center;">
 - 👋 Hi, I’m @mgl-cloud
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀
+- 🌱
+- 💞️ 
+- 📫 
   </br> 
 
 <h4 align="center"><code>
