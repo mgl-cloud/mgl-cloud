@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 </code></h4>
 
 <h4 align="center"><code>
-> 我的项目希望能帮到您
+> 希望我的项目能帮到您
 </code></h4>
 
 <h5 align="center">
