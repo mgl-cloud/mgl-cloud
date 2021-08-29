@@ -9,4 +9,4 @@ mgl-cloud/mgl-cloud is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-# <a center href="https://mgl.cloud/about">ABOUT ME<a/>
+# <a align="center href="https://mgl.cloud/about">ABOUT ME<a/>
