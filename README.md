@@ -1,11 +1,11 @@
-<div style="text-align: center;">
+<h2  align="center">
 - 👋 Hi, I’m @mgl-cloud
 - 👀
 - 🌱
 - 💞️ 
 - 📫 
   </br> 
-
+</h2>
 <h4 align="center"><code>
 > 热衷于开源项目.&nbsp;
 </code></h4>
